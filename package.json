@@ -1,0 +1,10 @@
+{
+  "name": "brocesses",
+  "version": "0.0.1",
+  "description": "BROwser proCESSES: Emulate Node's 'child_process' API with WebAssembly in the browser.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Sepehr Laal",
+  "license": "MIT"
+}
